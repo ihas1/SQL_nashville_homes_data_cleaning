@@ -9,6 +9,7 @@ Breaking down full addresses into separate components (address, city, state) �
 Standardizing values for consistency ⚖️
 Removing duplicate entries ⚠️
 Dropping unnecessary columns for better usability 🗑️
+
 🛠️ How It Works
 1. Database Setup
 First, we create a new database to work in. Think of it like setting up a new file folder where we can store and organize our data.
