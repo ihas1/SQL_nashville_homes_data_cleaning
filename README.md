@@ -19,6 +19,7 @@ First, we create a new database to work in. Think of it like setting up a new fi
 -- Create a new database for the project--
 
 CREATE DATABASE Nashville_Housing;
+
 USE Nashville_Housing;
 
 2. Cleaning Property Address Data 🏠
