@@ -1,4 +1,4 @@
-🏡 Nashville Home Sale Data Cleaning Project 🧹
+🏡 **Nashville Home Sale Data Cleaning Project** 🧹
 
 Welcome to the Nashville Home Sale Data Cleaning Project! 🎉 This project focuses on transforming and cleaning up a raw dataset of Nashville home sales to make it more structured and ready for analysis.
 
